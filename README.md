@@ -9,3 +9,5 @@
 6. Push
 7. Pull
 8. Merge
+9. Request
+10. All
