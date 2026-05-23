@@ -9,3 +9,5 @@
 6. Push
 7. Pull
 8. Merge
+9. Review
+10. Team
